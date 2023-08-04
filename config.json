@@ -14,8 +14,8 @@
     "srcDir": "./src/",
     "db": {
         "host": "localhost",
-        "user": "hoge",
-        "dbName": "hoge",
-        "password": "hoge"
+        "user": "postgres",
+        "dbName": "postgres",
+        "password": "password"
     }
 }
